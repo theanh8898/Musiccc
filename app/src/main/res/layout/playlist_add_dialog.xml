@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="@dimen/margin_large"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/margin_normal"
+        android:fontFamily="sans-serif"
+        android:text="@string/enter_name"
+        android:textColor="@color/colorAccent"
+        android:textSize="@dimen/txt_large"
+        android:textStyle="italic" />
+
+    <EditText
+        android:id="@+id/playlist_new_edt_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:autofillHints="Playlist"
+        android:inputType="text"
+        tools:ignore="LabelFor" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/margin_normal"
+        android:fontFamily="sans-serif"
+        android:text="@string/pick_some_tracks"
+        android:textColor="@color/colorAccent"
+        android:textSize="@dimen/txt_large"
+        android:textStyle="italic" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycler_playlist_new_add"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+</LinearLayout>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/black/AndroidStudioProjects/Musiccc/app/src/main/res/layout/activity_main.xml" value="0.3875" />
+        <entry key="..\:/Users/black/AndroidStudioProjects/Musiccc/app/src/main/res/layout/activity_splash.xml" value="0.3875" />
+        <entry key="..\:/Users/black/AndroidStudioProjects/Musiccc/app/src/main/res/layout/fragment_albums.xml" value="0.3875" />
+        <entry key="..\:/Users/black/AndroidStudioProjects/Musiccc/app/src/main/res/layout/fragment_artists.xml" value="0.3875" />
+        <entry key="..\:/Users/black/AndroidStudioProjects/Musiccc/app/src/main/res/layout/fragment_home.xml" value="0.3875" />
+        <entry key="..\:/Users/black/AndroidStudioProjects/Musiccc/app/src/main/res/layout/fragment_tracks.xml" value="0.3875" />
+        <entry key="..\:/Users/black/AndroidStudioProjects/Musiccc/app/src/main/res/layout/item_album.xml" value="0.3875" />
+        <entry key="..\:/Users/black/AndroidStudioProjects/Musiccc/app/src/main/res/layout/item_artist.xml" value="0.3875" />
+        <entry key="..\:/Users/black/AndroidStudioProjects/Musiccc/app/src/main/res/layout/item_playlist.xml" value="0.3875" />
+        <entry key="..\:/Users/black/AndroidStudioProjects/Musiccc/app/src/main/res/layout/item_track.xml" value="0.3875" />
+        <entry key="..\:/Users/black/AndroidStudioProjects/Musiccc/app/src/main/res/layout/notification_musiccc.xml" value="0.3875" />
+        <entry key="..\:/Users/black/AndroidStudioProjects/Musiccc/app/src/main/res/layout/playlist_add_dialog.xml" value="0.3875" />
+        <entry key="..\:/Users/black/StudioProjects/Musiccc/app/src/main/res/drawable/color_background_item.xml" value="0.3315" />
+        <entry key="..\:/Users/black/StudioProjects/Musiccc/app/src/main/res/drawable/ic_close.xml" value="0.3315" />
+        <entry key="..\:/Users/black/StudioProjects/Musiccc/app/src/main/res/drawable/ic_left.xml" value="0.3315" />
+        <entry key="..\:/Users/black/StudioProjects/Musiccc/app/src/main/res/drawable/ic_next.xml" value="0.3315" />
+        <entry key="..\:/Users/black/StudioProjects/Musiccc/app/src/main/res/drawable/ic_noti.xml" value="0.3315" />
+        <entry key="..\:/Users/black/StudioProjects/Musiccc/app/src/main/res/drawable/ic_pause.xml" value="0.3315" />
+        <entry key="..\:/Users/black/StudioProjects/Musiccc/app/src/main/res/drawable/ic_play.xml" value="0.3315" />
+        <entry key="..\:/Users/black/StudioProjects/Musiccc/app/src/main/res/drawable/ic_repeat.xml" value="0.3315" />
+        <entry key="..\:/Users/black/StudioProjects/Musiccc/app/src/main/res/drawable/ic_right.xml" value="0.3315" />
+        <entry key="..\:/Users/black/StudioProjects/Musiccc/app/src/main/res/drawable/ic_shuffle.xml" value="0.3315" />
+        <entry key="..\:/Users/black/StudioProjects/Musiccc/app/src/main/res/drawable/shape_091227_stroke_eaf0ff.xml" value="0.3315" />
+        <entry key="..\:/Users/black/StudioProjects/Musiccc/app/src/main/res/layout/activity_main.xml" value="0.3875" />
+        <entry key="..\:/Users/black/StudioProjects/Musiccc/app/src/main/res/layout/activity_splash.xml" value="0.3875" />
+        <entry key="..\:/Users/black/StudioProjects/Musiccc/app/src/main/res/layout/fragment_album_tracks.xml" value="0.3875" />
+        <entry key="..\:/Users/black/StudioProjects/Musiccc/app/src/main/res/layout/fragment_albums.xml" value="0.3875" />
+        <entry key="..\:/Users/black/StudioProjects/Musiccc/app/src/main/res/layout/fragment_artists.xml" value="0.3180846515604959" />
+        <entry key="..\:/Users/black/StudioProjects/Musiccc/app/src/main/res/layout/fragment_footer_player.xml" value="0.3875" />
+        <entry key="..\:/Users/black/StudioProjects/Musiccc/app/src/main/res/layout/fragment_home.xml" value="0.3180846515604959" />
+        <entry key="..\:/Users/black/StudioProjects/Musiccc/app/src/main/res/layout/fragment_player.xml" value="0.3180846515604959" />
+        <entry key="..\:/Users/black/StudioProjects/Musiccc/app/src/main/res/layout/fragment_playlist_tracks.xml" value="0.3875" />
+        <entry key="..\:/Users/black/StudioProjects/Musiccc/app/src/main/res/layout/fragment_playlists.xml" value="0.3875" />
+        <entry key="..\:/Users/black/StudioProjects/Musiccc/app/src/main/res/layout/fragment_show_tracks.xml" value="0.3180846515604959" />
+        <entry key="..\:/Users/black/StudioProjects/Musiccc/app/src/main/res/layout/fragment_songs.xml" value="0.3180846515604959" />
+        <entry key="..\:/Users/black/StudioProjects/Musiccc/app/src/main/res/layout/fragment_tracks.xml" value="0.3180846515604959" />
+        <entry key="..\:/Users/black/StudioProjects/Musiccc/app/src/main/res/layout/item_album.xml" value="0.3180846515604959" />
+        <entry key="..\:/Users/black/StudioProjects/Musiccc/app/src/main/res/layout/item_artist.xml" value="0.3875" />
+        <entry key="..\:/Users/black/StudioProjects/Musiccc/app/src/main/res/layout/item_library.xml" value="0.3180846515604959" />
+        <entry key="..\:/Users/black/StudioProjects/Musiccc/app/src/main/res/layout/item_playlist.xml" value="0.3875" />
+        <entry key="..\:/Users/black/StudioProjects/Musiccc/app/src/main/res/layout/item_song_large.xml" value="0.3180846515604959" />
+        <entry key="..\:/Users/black/StudioProjects/Musiccc/app/src/main/res/layout/item_song_list.xml" value="0.3180846515604959" />
+        <entry key="..\:/Users/black/StudioProjects/Musiccc/app/src/main/res/layout/item_track.xml" value="0.3875" />
+        <entry key="..\:/Users/black/StudioProjects/Musiccc/app/src/main/res/layout/notification_musiccc.xml" value="0.3875" />
+        <entry key="..\:/Users/black/StudioProjects/Musiccc/app/src/main/res/layout/playlist_add_dialog.xml" value="0.3875" />
+        <entry key="..\:/Users/black/StudioProjects/Musiccc/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2095" />
+        <entry key="..\:/Users/black/StudioProjects/Musiccc/app/src/main/res/mipmap-anydpi-v26/ic_next.xml" value="0.3315" />
+        <entry key="..\:/Users/black/StudioProjects/Musiccc/app/src/main/res/mipmap-anydpi-v26/ic_pause.xml" value="0.3315" />
+        <entry key="..\:/Users/black/StudioProjects/Musiccc/app/src/main/res/mipmap-anydpi-v26/ic_play.xml" value="0.2095" />
+        <entry key="..\:/Users/black/StudioProjects/Musiccc/app/src/main/res/mipmap-anydpi-v26/ic_previous.xml" value="0.3315" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="Android API 32 Platform" project-jdk-type="Android SDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

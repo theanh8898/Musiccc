@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="@dimen/margin_small">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="@dimen/padding_small">
+
+        <FrameLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <GridLayout
+                android:id="@+id/grid_playlist_art"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:columnCount="2"
+                android:rowCount="2">
+
+                <ImageView
+                    android:id="@+id/playlist_img_art1"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:src="@mipmap/ic_launcher_foreground"
+                    tools:ignore="ContentDescription" />
+
+                <ImageView
+                    android:id="@+id/playlist_img_art2"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:src="@mipmap/ic_launcher_foreground"
+                    tools:ignore="ContentDescription" />
+
+                <ImageView
+                    android:id="@+id/playlist_img_art3"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:src="@mipmap/ic_launcher_foreground"
+                    tools:ignore="ContentDescription" />
+
+                <ImageView
+                    android:id="@+id/playlist_img_art4"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:src="@mipmap/ic_launcher_foreground"
+                    tools:ignore="ContentDescription" />
+            </GridLayout>
+
+            <ImageView
+                android:id="@+id/playlist_img_art"
+                android:layout_width="120dp"
+                android:layout_height="120dp"
+                android:src="@mipmap/ic_launcher_foreground"
+                tools:ignore="ContentDescription" />
+        </FrameLayout>
+
+        <TextView
+            android:id="@+id/playlist_txt_name"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_margin="@dimen/margin_small"
+            android:layout_weight="1"
+            android:fontFamily="sans-serif"
+            android:singleLine="true"
+            android:text="@string/app_name"
+            android:textColor="@color/colorAccent"
+            android:textSize="@dimen/txt_large" />
+
+        <ImageView
+            android:id="@+id/playlist_img_play"
+            android:layout_width="50dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_vertical"
+            android:clickable="true"
+            android:focusable="true"
+            android:src="@mipmap/ic_play_foreground"
+            tools:ignore="ContentDescription" />
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

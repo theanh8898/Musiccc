@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Musiccc</string>
+    <string name="empty_tracks">Nothing here</string>
+    <string name="default_time">00:00</string>
+    <string name="dialog_create_playlist_title">Playlist Name</string>
+    <string name="playlist_add_title">Add tracks</string>
+    <string name="save">Save</string>
+    <string name="enter_name">Enter name</string>
+    <string name="pick_some_tracks">Pick some tracks</string>
+</resources>
